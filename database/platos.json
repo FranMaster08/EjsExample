@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rabioles",
+    "image": "https://images.pexels.com/photos/2251206/pexels-photo-2251206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description":"delicia 1"
+  },
+  {
+    "id": 2,
+    "name": "Asado",
+    "image": "https://images.pexels.com/photos/2251206/pexels-photo-2251206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description":""
+  },
+  {
+    "id": 3,
+    "name": "Arepas",
+    "image": "https://images.pexels.com/photos/2251206/pexels-photo-2251206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description":"delicia 3"
+  }
+]
